@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Clase4</string>
+    <string name="Uno">1</string>
+    <string name="Dos">2</string>
+    <string name="Tres">3</string>
+    <string name="Cuatro">4</string>
+    <string name="Cinco">5</string>
+    <string name="Seis">6</string>
+    <string name="Siete">7</string>
+    <string name="Ocho">8</string>
+    <string name="Nueve">9</string>
+    <string name="Cero">0</string>
+    <string name="Calculadora">CALCULADORA</string>
+    <string name="Cancelar">C</string>
+    <string name="Dividir">/</string>
+    <string name="Multiplicar">X</string>
+    <string name="Restar">-</string>
+    <string name="Sumar">+</string>
+    <string name="Igual">=</string>
+    <string name="Borrar">DEL</string>
+    <string name="Punto">.</string>
+</resources>
